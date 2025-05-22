@@ -1,11 +1,11 @@
-#This is a basic theme-toggler using state management library zustand 
+# This is a basic theme-toggler using state management library zustand 
 
 ### Images 
 
-##Light Mode
+## Light Mode
 ![Screenshot 2025-05-22 153502](https://github.com/user-attachments/assets/3582e02c-a52d-40a5-8dc8-0aceac2db0b0)
 
-##Dark Mode
+## Dark Mode
 ![Screenshot 2025-05-22 153510](https://github.com/user-attachments/assets/25caceee-8b5d-4e35-bb2e-3dc8c7b11d35)
 
 
